@@ -12,7 +12,7 @@ Probudíš se na zemi po nárazu a skoro nic si nepamatuješ. Stanici zasáhl ro
 
 **Potřebuješ:**
 - VS Code s podporou Jupyter notebooků,
-- Python verze `TODO`.
+- Python verze `3.12.14`.
 
 Hra nepotřebuje žádné další knihovny, používá jen vestavěný modul `random`.
 
